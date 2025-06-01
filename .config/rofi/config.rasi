@@ -1,0 +1,18 @@
+/* note: All main themes or configs are located in ~/.config/rofi/themes/ */
+
+/* ---- Global Configuration Fonts ---- */
+@import "~/.config/rofi/0-shared-fonts.rasi"
+
+/* note: Main themes in ~/.config/rofi/themes */
+/* You can manually change here or you can use rofi theme selector SUPER SHIFT E */
+
+//@theme "~/.config/rofi/themes/KooL_style-15-solarized.rasi"
+//@theme "~/.config/rofi/themes/KooL_style-14.rasi"
+//@theme "~/.config/rofi/themes/KooL_LonerOrZ.rasi"
+//@theme "~/.config/rofi/themes/KooL_style-1.rasi"
+//@theme "~/.config/rofi/themes/KooL_LonerOrZ.rasi"
+//@theme "~/.config/rofi/themes/KooL_style-1.rasi"
+//@theme "~/.config/rofi/themes/KooL_style-1.rasi"
+//@theme "~/.config/rofi/themes/KooL_style-2-Dark.rasi"
+//@theme "~/.config/rofi/themes/KooL_style-1.rasi"
+@theme "~/.config/rofi/themes/luki.rasi"
